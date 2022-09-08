@@ -3,16 +3,11 @@
 
 #### Estudante de Engenharia de Computação pelo CEFET-MG e Técnico em Eletrônica formado pelo Colégio Técnico da UFMG. Sou apaixonado em tecnologia e busco agregar à sociedade através da programação.
 <br>
-<br>
 
-![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMnz&show_icons=true&theme=radical)
-
-
+![Matheus GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusMnz&show_icons=true&theme=radical)    
 ## Tecnologias que eu utilizo
-<br>
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMnz&layout=compact)](https://github.com/MatheusMnz/github-readme-stats)
 
 ### Redes Sociais:
 <br>
