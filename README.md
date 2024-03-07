@@ -7,10 +7,10 @@ Dedicated software developer with a focus on crafting effective web solutions. P
 - Technical Electronics, Coltec-UFMG
 
 ### Github Stats
-<a href="https://github.com/MatheusMnz/github-readme-stats#gh-dark-mode-only">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMnz&show_icons=true&rank_icon=github&theme=radical#gh-dark-mode-only" />
+<a href="https://github.com/MatheusMnz/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=MatheusMnz&show_icons=true&rank_icon=github&theme=radical" />
 </a>
-<a href="https://github.com/MatheusMnz/github-readme-stats#gh-dark-mode-only">
+<a href="https://github.com/MatheusMnz/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMnz&layout=compact&theme=radical&hide_progress=true" />
 </a>
 
