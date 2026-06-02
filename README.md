@@ -60,7 +60,6 @@ Engenheiro de software com foco em **desenvolvimento web** e **resolução de pr
 
 <br/>
 
----
 
 <div align="center">
 
@@ -75,46 +74,6 @@ Engenheiro de software com foco em **desenvolvimento web** e **resolução de pr
 
 </div>
 
-<br/>
-
----
-
-<div align="center">
-
-## `$ cat /etc/stack`
-
-</div>
-
-<div align="center">
-
-**Linguagens**
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=flat-square&logo=python&logoColor=00FF9C)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=00FF9C)
-![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=00FF9C)
-![C++](https://img.shields.io/badge/C++-0D1117?style=flat-square&logo=cplusplus&logoColor=00FF9C)
-![Java](https://img.shields.io/badge/Java-0D1117?style=flat-square&logo=openjdk&logoColor=00FF9C)
-
-**Frontend & Backend**
-
-![React](https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=00FF9C)
-![Next.js](https://img.shields.io/badge/Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=00FF9C)
-![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=00FF9C)
-![FastAPI](https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&logo=fastapi&logoColor=00FF9C)
-
-**Banco de Dados & Infra**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=00FF9C)
-![Docker](https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=00FF9C)
-![Git](https://img.shields.io/badge/Git-0D1117?style=flat-square&logo=git&logoColor=00FF9C)
-![Linux](https://img.shields.io/badge/Linux-0D1117?style=flat-square&logo=linux&logoColor=00FF9C)
-
-</div>
-
-<br/>
-
----
-
 <div align="center">
 
 ## `$ ping --contact`
@@ -123,7 +82,7 @@ Engenheiro de software com foco em **desenvolvimento web** e **resolução de pr
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00FF9C&labelColor=0D1117)](https://www.linkedin.com/in/matheus-menezes-9774b61a3/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzAwRkY5QyIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMCAxLTIuMDYzLTIuMDY1IDIuMDY0IDIuMDY0IDAgMSAxIDIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBMMjIuMjI1IDB6Ii8+PC9zdmc+&logoColor=00FF9C&labelColor=0D1117)](https://www.linkedin.com/in/matheus-menezes-9774b61a3/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=00FF9C&labelColor=0D1117)](https://leetcode.com/mnzmatheus)
 [![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C&labelColor=0D1117)](https://github.com/MatheusMnz)
 
