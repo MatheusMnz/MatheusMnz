@@ -1,24 +1,28 @@
-## Matheus Menezes - Software Developer
+# Matheus Menezes - Software Developer
 
 Dedicated software developer with a focus on crafting effective web solutions. Passionate about algorithmic problem-solving, I am currently pursuing a degree in Computer Engineering at CEFET-MG.
 
-### Education
+---
+
+## Education
 - Bachelor's in Computer Engineering, CEFET-MG (In Progress)
 - Technical Electronics, Coltec-UFMG
 
-### Github Stats
+---
 
-<a href="https://github.com/MatheusMnz/github-readme-stats">
-  <img align="center" 
-       src="https://github-readme-stats.vercel.app/api?username=MatheusMnz&show_icons=true&theme=radical&include_all_commits=true&rank_icon=github" />
-</a>
+## Github Stats
 
-<a href="https://github.com/MatheusMnz/github-readme-stats">
-  <img align="center" 
-</a>       
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusMnz&theme=radical&v=2)
 
-### Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/mnzmatheus)
+![](https://streak-stats.demolab.com/?user=MatheusMnz&theme=radical&hide_border=true&v=2)
 
-#
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MatheusMnz&theme=radical&v=2)
+
+---
+
+## Leetcode Stats
+![Leetcode Stats](https://leetcard.jacoblin.cool/mnzmatheus?theme=dark&font=Baloo%20Chettan%202&v=2)
+
+---
+
 Thank you for visiting my profile! I am excited about exploring collaborative opportunities in the dynamic world of software development.
